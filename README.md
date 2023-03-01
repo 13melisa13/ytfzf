@@ -18,7 +18,7 @@
 <h1 align="center">
 	This is a little showcase
 </h1>
-<p align="center"> Аделина 
+<p align="center"> Аделина Исаева
 <img src=.assets/ytfzf.gif width="100%">
 </p>
 
